@@ -7,7 +7,9 @@ We used classical CV algorithms (like blur+binarization) to detect the board, al
 
 
 
-#Example of detection and best move-adviser:
+## Example of detection and best move-adviser:
 
 ![IMG_3071](https://user-images.githubusercontent.com/98733029/209229571-2d5c6d03-f179-4083-bc91-8597f580ab11.JPG)
 ![OUHRpZsGWoo-PhotoRoom (1)](https://user-images.githubusercontent.com/98733029/209228559-c5c069e0-3677-4662-93a6-d309f3b1bc30.png)
+
+PS. All main code can be found in CV_project.jpynb
