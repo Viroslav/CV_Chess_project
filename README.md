@@ -1,4 +1,4 @@
-# Chess Detector and advicer.
+# Chess Detector and Adviser (CDA)
 # 
 ## The main idea is to help chess players who like to play on a real board, keep track of their moves, help with decisions, and if you are alone, simulate the game with a real person using a computer)
 
